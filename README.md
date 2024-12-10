@@ -2,6 +2,13 @@
 
 This API allows users to manage their wallet (deposit, withdraw, check balance) and simulate slot game rounds. It also calculates RTP (Return to Player) statistics for the game.
 
+## How to Run
+
+1. ```npm install```
+2. ```npm run dev```
+3. ```npx jest --verbose``` or ```npm run test```
+
+
 ## API Endpoints
 
 port: 3000
