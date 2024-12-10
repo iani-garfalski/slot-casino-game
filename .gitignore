@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
